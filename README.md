@@ -1,5 +1,5 @@
 # FinTrack
-The FinTrack project has been brewing in my head for a bit. I aim to create a web-based budget manager that also includes other finance tools. This will be pretty basic to start, won't be anything fancy for the website. I plan to capture the entire development process in this repository.
+I aim to create a web-based budget manager that also includes other finance tools. This will be pretty basic to start, won't be anything fancy for the website. I plan to capture the entire development process in this repository.
 
 Initial Plan:
 * Front end: design basic HTML site
