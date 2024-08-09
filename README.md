@@ -1,10 +1,8 @@
 # FinTrack
-The FinTrack project has been brewing in my head for a bit. I aim to create a web-based budget manager that also includes other finance tools. Down the road it would be nice to make this into stand alone app. I plan to capture the entire development process in this repository.
+The FinTrack project has been brewing in my head for a bit. I aim to create a web-based budget manager that also includes other finance tools. This will be pretty basic to start, won't be anything fancy for the website. I plan to capture the entire development process in this repository.
 
 Initial Plan:
-* Mock out website layout using Figma
-* Break down project into smaller chunks
-* Plan and develop front-end
+* Front end: design basic HTML site
 * Plan and develop back-end
 * Add unit tests to both ends
 * If needed, create a yaml build-action script
